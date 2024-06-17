@@ -1,4 +1,4 @@
--- creates a 'users' table if it doesn't already exist.
+-- creates a 'users' table if it doesn't already exists.
 
 CREATE TABLE IF NOT EXISTS users (
     id INT AUTO_INCREMENT PRIMARY KEY,
